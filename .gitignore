@@ -1,1 +1,8 @@
+# For security
 backend/ecommerce_store_backend/local.env
+
+# For cache files
+backend/ecommerce_store_backend/ecommerce_store_backend/__pycache__
+
+# For database - since the assignment is about in-memory
+backend/ecommerce_store_backend/db.sqlite3
